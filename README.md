@@ -10,7 +10,7 @@ UriOnlineJudge : Nv. Iniciante - Repositório de Exerc.
 
   + 1011, 1014.
 
-  + 2006.
+  + 2006 .
 
   + 2234, 2235.
 
