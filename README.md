@@ -1,12 +1,10 @@
-# Uri_Online_Judge
-
-Nv. Iniciante - Linguagem c++.
-
 :man_student: #UriOnlineJudge Exercícios Resolvidos. :woman_student:
 
-- Repositório de Problemas de Programação:
+# - Repositório de Problemas de Programação:
 
   + ##Lista de Exercícios Até o Momento:
+
+  # ([ C++ ]) 
 
   + 1000 , 1001 , 1002 , 1003 , 1004 , 1005 , 1006 , 1007 , 1008 , 1009 .
 
@@ -18,6 +16,6 @@ Nv. Iniciante - Linguagem c++.
 
   + 2454 , 2455 .
 
-  :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
+ # :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
 
   
