@@ -1,6 +1,6 @@
-:man_student: #UriOnlineJudge Exercícios Resolvidos. :woman_student:
+<p align="center"> :man_student: #UriOnlineJudge Exercícios Resolvidos. :woman_student:
 
-# - Repositório de Problemas de Programação:
+<p align="center"> # - Repositório de Problemas de Programação:
 
   + ##Lista de Exercícios Até o Momento:
 
@@ -16,6 +16,6 @@
 
   + 2454 , 2455 .
 
- # :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
+<p align="center">  # :coffee::nerd_face::computer: _ Follow @Bruno_Sthill
 
   
