@@ -1,0 +1,64 @@
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+
+using namespace std;
+/*
+URI Online Judge | 1866
+Conta
+Por Ricardo Martins, IFSULDEMINAS BR Brazil
+
+Timelimit: 1
+Dois amigos pedem ao atendente de uma lanchonete propor um desafio, de modo que quem acertasse mais, 
+não precisaria pagar a conta. Então foi proposto o seguinte: 
+Dado o seguinte somatório abaixo, informar o resultado, com uma quantidade de termos no mesmo:
+
+S = 1 - 1 + 1 - 1 + 1 - 1 + 1 - 1 ...
+
+Escreva um programa que, dada uma quantidade de termos, informar o resultado do somatório acima.
+
+Entrada
+Um número inteiro C será informado, que será a quantidade de casos de teste. 
+Cada caso de teste inicia com um número inteiro N (1 = N = 1000), indicando a quantidade de termos da soma.
+
+Saída
+Para cada caso de teste imprima um número S, que é o resultado da soma dos N termos da expressão.
+
+Exemplo de Entrada	Exemplo de Saída
+3					
+
+11 					1
+
+7					1	
+
+18					0
+
+*/
+
+int main() 
+{
+	
+	int C;	
+	cin>>C;
+	
+	if( C%2 == 0 )
+	{
+		cout<<"0"<<endl;	
+	}else
+		cout<<"1"<<endl;
+	
+	return 0;
+}
+
+	/*	
+			for( int i = C; i%2==1; i=1 )
+	{
+		cout<<"1"<<endl;
+		break;	
+	}
+	for( int i = C; i%2==0; i=1 )
+	{
+		cout<<"0"<<endl;
+		break;	
+	}
+	*/
